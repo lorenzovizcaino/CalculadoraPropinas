@@ -7,7 +7,7 @@ import kotlin.math.roundToInt
 
 class ViewBindingActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
-
+//
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
